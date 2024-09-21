@@ -45,7 +45,7 @@ ul li {
   width: 80px;
   border: 2px solid white;
   border-radius: 50%;
-  animation: fade ease 0.5s;
+  animation: fade2 ease 0.5s;
 }
 
 .message {
