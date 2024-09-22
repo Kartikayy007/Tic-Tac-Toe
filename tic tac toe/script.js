@@ -159,6 +159,7 @@ function judge(array) {
               reset();
               messageDisplay();
             });
+            game = false
     }
     return false;
 }
